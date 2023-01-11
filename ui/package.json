@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "clipboard": "^2.0.6",
-    "lunr": "^2.3.8"
+    "lunr": "^2.3.9"
   },
   "devDependencies": {
     "asciidoctor.js": "^1.5.9",
